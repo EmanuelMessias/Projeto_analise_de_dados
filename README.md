@@ -57,7 +57,7 @@ Abaixo estão alguns dos gráficos gerados a partir da análise de dados. Eles m
 
 
 1. **Distribuição de Cancelamentos por [Coluna 1]**
-   ![Gráfico de Cancelamento por Coluna 1] ![newplot3](https://github.com/user-attachments/assets/391e89ad-3a35-4a30-89d2-6495fb0ff32b  <!-- Insira o link da imagem aqui -->
+   ![Gráfico de Cancelamento por Coluna 1] ![newplot3](https://github.com/user-attachments/assets/391e89ad-3a35-4a30-89d2-6495fb0ff32b) <!-- Insira o link da imagem aqui -->
 
 2. **Distribuição de Cancelamentos por [Coluna 2]**
    ![Gráfico de Cancelamento por Coluna 2] ![newplot2](https://github.com/user-attachments/assets/d5280f22-3d15-47d8-a90c-c8e99d46a2fa)  <!-- 
@@ -65,7 +65,7 @@ Insira o link da imagem aqui -->
 
 
 3. **Distribuição de Cancelamentos por [Coluna 3]**
-   ![Gráfico de Cancelamento por Coluna 3](![newplot5](https://github.com/user-attachments/assets/d31ef51f-d336-4fac-a781-9b2e2b542e7c))  <!-- Insira o link da imagem aqui -->
+   ![Gráfico de Cancelamento por Coluna 3]![newplot5](https://github.com/user-attachments/assets/d31ef51f-d336-4fac-a781-9b2e2b542e7c) <!-- Insira o link da imagem aqui -->
 
 ### 🎯 Resultados e Próximos Passos
 Após a análise, identificamos os principais fatores que levam ao cancelamento. Com esses insights, sugerimos ações específicas para melhorar a retenção de clientes. O próximo passo é implementar essas estratégias e monitorar os resultados.
